@@ -20,16 +20,16 @@ This allowed volume of the current "tickerVolumes" to increase by using the "tic
 The results are that the refactored code may look nicer and easy to follow however it takes longer to run.
 
 Refactored 2017 Results:
-![VBA_Challenge_2017.png](/resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
 
 Original 2017 Results:
-![VBA_Challenge_2017_Original.png](/resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017_Original.png](/Resources/VBA_Challenge_2017.png)
 
 Refactored 2018 Results:
-![VBA_Challenge_2018.png](/resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
 
 Original 2018 Results: 
-![VBA_Challenge_2018_Original.png](/resources/VBA_Challenge_2018_Original.png)
+![VBA_Challenge_2018_Original.png](/Resources/VBA_Challenge_2018_Original.png)
 
 ## Summary
 
