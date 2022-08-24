@@ -19,26 +19,14 @@ This allowed volume of the current "tickerVolumes" to increase by using the "tic
 
 The results are that the refactored code may look nicer and easy to follow however it took a bit longer to write. That being said the, the refactored code runs quicker despite looping through a much larger data set.
 
-Refactored 2017 Results:
 
-![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
-
-Original 2017 Results:
-
-![VBA_Challenge_2017_Original.png](/Resources/VBA_Challenge_2017.png)
-
-Refactored 2018 Results:
-
-![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
-
-Original 2018 Results: 
-
-![VBA_Challenge_2018_Original.png](/Resources/VBA_Challenge_2018_Original.png)
 
 ## Summary
 
 - What are the advantages or disadvantages of refactoring the code?
+
 The refactored code took longer to write and although it takes longer to run it does go through the entire Data Set where as the orignal code only takes into account designated cells. Another benefit is that the refactored code completes quicker.
 
 - How do these pros and cons apply to refactoring the original VBA script?
+
 Refactoring the code is a time investment but is less taxing to run. Mostly this script is a time investment.
